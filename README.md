@@ -1,1 +1,13 @@
-# C360
+# CS 360 Mobile App Portfolio Reflection
+
+The goal of this project was to develop a functional mobile inventory application that allows users to manage inventory items through an easy-to-use Android interface. The app was designed to address the need for a simple system that enables users to create, view, update, and delete inventory records while securely storing data in a local database. The application also included user authentication features to help protect inventory information and provide a personalized user experience.
+
+To support user needs, the application included several important screens and features, such as a login screen, account registration functionality, inventory display screen, item management features, and database integration. During the design process, I focused on creating a clean and intuitive user interface that minimized unnecessary complexity. The navigation was designed to be straightforward so users could quickly access inventory information and perform common tasks. These design choices helped create a user-centered experience that prioritized efficiency and ease of use.
+
+When developing the application, I approached the coding process by breaking the project into smaller components and implementing one feature at a time. I first established the database structure and user authentication system before building inventory management functionality. This modular approach made it easier to test individual components and troubleshoot issues throughout development. These same strategies can be applied to future software projects by simplifying complex requirements into manageable development phases.
+
+Testing was an important part of the development process. I tested each screen and feature individually to verify that data was being stored, retrieved, updated, and deleted correctly within the database. I also tested user authentication and navigation between screens to ensure the application functioned as expected. This process helped identify bugs, validate application behavior, and improve overall reliability before finalizing the project.
+
+One challenge I encountered was integrating multiple application components while maintaining a consistent user experience. Successfully connecting the user interface, database operations, and inventory management features required careful planning and troubleshooting. Overcoming these challenges strengthened my understanding of mobile application architecture and Android development practices.
+
+The area where I was most successful was implementing the inventory management functionality and database integration. This component demonstrated my ability to apply programming concepts, manage persistent data storage, and create a practical solution that fulfills user requirements. The completed application reflects both technical development skills and an understanding of user-centered design principles.
